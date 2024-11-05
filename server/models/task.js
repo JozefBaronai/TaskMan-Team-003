@@ -1,4 +1,4 @@
-
+//schema for task
 const { DataTypes } = require("sequelize");
 const { sequelize } = require("../config/db");
 
